@@ -1,0 +1,157 @@
+G:\Dot  net\API\bin\Debug\net8.0\appsettings.Development.json
+G:\Dot  net\API\bin\Debug\net8.0\appsettings.json
+G:\Dot  net\API\bin\Debug\net8.0\API.exe
+G:\Dot  net\API\bin\Debug\net8.0\API.deps.json
+G:\Dot  net\API\bin\Debug\net8.0\API.runtimeconfig.json
+G:\Dot  net\API\bin\Debug\net8.0\API.dll
+G:\Dot  net\API\bin\Debug\net8.0\API.pdb
+G:\Dot  net\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Dot  net\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Dot  net\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Dot  net\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Dot  net\API\bin\Debug\net8.0\Core.dll
+G:\Dot  net\API\bin\Debug\net8.0\Infrastructure.dll
+G:\Dot  net\API\bin\Debug\net8.0\Infrastructure.pdb
+G:\Dot  net\API\bin\Debug\net8.0\Core.pdb
+G:\Dot  net\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+G:\Dot  net\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dot  net\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+G:\Dot  net\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+G:\Dot  net\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+G:\Dot  net\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+G:\Dot  net\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets.build.json
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets.development.json
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+G:\Dot  net\API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Dot  net\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+G:\Dot  net\API\obj\Debug\net8.0\API.csproj.Up2Date
+G:\Dot  net\API\obj\Debug\net8.0\API.dll
+G:\Dot  net\API\obj\Debug\net8.0\refint\API.dll
+G:\Dot  net\API\obj\Debug\net8.0\API.pdb
+G:\Dot  net\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+G:\Dot  net\API\obj\Debug\net8.0\ref\API.dll
+G:\Dotnet\API\bin\Debug\net8.0\appsettings.json
+G:\Dotnet\API\bin\Debug\net8.0\appsettings.Development.json
+G:\Dotnet\API\bin\Debug\net8.0\API.exe
+G:\Dotnet\API\bin\Debug\net8.0\API.deps.json
+G:\Dotnet\API\bin\Debug\net8.0\API.runtimeconfig.json
+G:\Dotnet\API\bin\Debug\net8.0\API.dll
+G:\Dotnet\API\bin\Debug\net8.0\API.pdb
+G:\Dotnet\API\bin\Debug\net8.0\Humanizer.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Dotnet\API\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.CodeDom.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Dotnet\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Dotnet\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Dotnet\API\bin\Debug\net8.0\Core.dll
+G:\Dotnet\API\bin\Debug\net8.0\Infrastructure.dll
+G:\Dotnet\API\bin\Debug\net8.0\Infrastructure.pdb
+G:\Dotnet\API\bin\Debug\net8.0\Core.pdb
+G:\Dotnet\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+G:\Dotnet\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dotnet\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+G:\Dotnet\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+G:\Dotnet\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+G:\Dotnet\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets.build.json
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets.development.json
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+G:\Dotnet\API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Dotnet\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+G:\Dotnet\API\obj\Debug\net8.0\API.csproj.Up2Date
+G:\Dotnet\API\obj\Debug\net8.0\API.dll
+G:\Dotnet\API\obj\Debug\net8.0\refint\API.dll
+G:\Dotnet\API\obj\Debug\net8.0\API.pdb
+G:\Dotnet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+G:\Dotnet\API\obj\Debug\net8.0\ref\API.dll
+G:\Dotnet\API\bin\Debug\net8.0\Aspire.Pomelo.EntityFrameworkCore.MySql.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Dotnet\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Dotnet\API\bin\Debug\net8.0\MySqlConnector.dll
+G:\Dotnet\API\bin\Debug\net8.0\MySqlConnector.Logging.Microsoft.Extensions.Logging.dll
+G:\Dotnet\API\bin\Debug\net8.0\OpenTelemetry.dll
+G:\Dotnet\API\bin\Debug\net8.0\OpenTelemetry.Api.dll
+G:\Dotnet\API\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+G:\Dotnet\API\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+G:\Dotnet\API\bin\Debug\net8.0\Polly.Core.dll
+G:\Dotnet\API\bin\Debug\net8.0\Polly.Extensions.dll
+G:\Dotnet\API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
