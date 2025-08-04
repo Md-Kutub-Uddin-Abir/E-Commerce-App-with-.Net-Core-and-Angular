@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace API.Controllers;
 
 [ApiController]
-[Route("api[controller]")]
+[Route("api/[controller]")]
 public class ProductsController : ControllerBase        //It's going to allow us to create API endpoints and return API responses
 {
     private readonly StoreContext context;
