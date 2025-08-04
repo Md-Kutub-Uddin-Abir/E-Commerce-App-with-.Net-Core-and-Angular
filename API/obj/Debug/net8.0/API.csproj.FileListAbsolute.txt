@@ -155,3 +155,4 @@ G:\Dotnet\API\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
 G:\Dotnet\API\bin\Debug\net8.0\Polly.Core.dll
 G:\Dotnet\API\bin\Debug\net8.0\Polly.Extensions.dll
 G:\Dotnet\API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Dotnet\API\obj\Debug\net8.0\API.sourcelink.json
